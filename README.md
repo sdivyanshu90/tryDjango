@@ -1,5 +1,5 @@
 # tryDjango
-This is Project developed by using Django.
+This Project is developed by using Django.
 
 Frequently used Command
 python manage.py runserver
