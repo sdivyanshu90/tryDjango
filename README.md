@@ -17,7 +17,7 @@ This will start the Django development server and allow you to access the projec
 The "tryDjango" repository contains a range of projects that showcase various features and capabilities of Django. Each project is designed to be standalone and can be run independently of each other. Some of the projects included in this repository are:
 
 - project1: A basic Django project that demonstrates how to create a simple website with static pages.
-- 
+
 - project2: An intermediate Django project that demonstrates how to create a blog website with dynamic content.
 
 - project3: An advanced Django project that demonstrates how to create a social media website with user authentication and messaging features.
@@ -29,5 +29,5 @@ The "tryDjango" repository contains a range of projects that showcase various fe
 "tryDjango" is licensed under the MIT License. See the [LICENSE](https://github.com/sdivyanshu90/tryDjango/blob/main/LICENSE) file for more details.
 
 ###### Acknowledgments
-This project was inspired by the excellent [Coding for Entrepreneurs](https://www.codingforentrepreneurs.com/) course by Justin Mitchel[Github](https://github.com/jmitchel3).
-Thanks to the Django community for creating such a powerful and versatile web framework.
+- This project was inspired by the excellent [Coding for Entrepreneurs](https://www.codingforentrepreneurs.com/) course by Justin Mitchel [Github](https://github.com/jmitchel3).
+- Thanks to the Django community for creating such a powerful and versatile web framework.
