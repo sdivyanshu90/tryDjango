@@ -16,9 +16,11 @@ This will start the Django development server and allow you to access the projec
 ### Projects
 The "tryDjango" repository contains a range of projects that showcase various features and capabilities of Django. Each project is designed to be standalone and can be run independently of each other. Some of the projects included in this repository are:
 
-*project1: A basic Django project that demonstrates how to create a simple website with static pages.
-*project2: An intermediate Django project that demonstrates how to create a blog website with dynamic content.
-*project3: An advanced Django project that demonstrates how to create a social media website with user authentication and messaging features.
+- project1: A basic Django project that demonstrates how to create a simple website with static pages.
+- 
+- project2: An intermediate Django project that demonstrates how to create a blog website with dynamic content.
+
+- project3: An advanced Django project that demonstrates how to create a social media website with user authentication and messaging features.
 
 #### Contributing
 "tryDjango" is an open-source project and welcomes community contributions. If you have any suggestions, feature requests, or bug reports, please create an issue on Github or submit a pull request.
